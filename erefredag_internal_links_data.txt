@@ -1,0 +1,5 @@
+1. http://www.erefredag.se/   ->   Är det fredag? - Vi visar fredagar
+2. http://twitter.com/home?status=http://erefredag.se/   ->   Logga in på Twitter
+3. http://www.erefredag.se//   ->   Är det fredag? - Vi visar fredagar
+4. http://www.blogger.com/blog_this.pyra?t&u=http://erefredag.se/&n=Ere+fredag%3F&pli=1   ->   Blogger
+5. http://www.facebook.com/sharer.php?u=http://erefredag.se/   ->   Logga in på Facebook | Facebook
